@@ -1,11 +1,43 @@
-I am currently writing my master thesis on graph multi-attention networks for brain activity prediction. 
-If you have any questions or requests, feel free to write me an e-mail and I will answer as soon as possible. 
+## Servus, ich bin Thomas
 
-I am open for new projects in the field of deep learning and I am espacially curious about a composing A.I. 
-or a painting A.I., as I am producing music for myself and want to learn more about it. 
+Ich bin seit rund 2,5 Jahren in der Softwareentwicklung als Entwicklungsingenieur unterwegs.
+Mein Fokus liegt darauf, Software nicht nur zum Laufen zu bringen, sondern sie stabil,
+testbar und automatisiert zu halten – von der ersten Codezeile bis in die Produktion.
 
+### Was ich so treibe
 
-Hear you soon!
+- Coden und Skripten (gern, viel, meistens freiwillig)
+- KI-gestützte Code-Analyse (Bugs bekommen bei mir keinen Wohnsitz)
+- Testing und Test Automation (weil "hat bei mir funktioniert" kein Release-Kriterium ist)
+- Prozess- und Workflow-Automation (alles Repetitive wird konsequent wegautomatisiert)
+- CI/CD-Pipelines aufbauen und pflegen (damit Deployments langweilig werden – so wie es sein soll)
+- Infrastruktur stabil halten (Monitoring, Logging, und ja: manchmal auch "kurz neu starten")
+
+### Tech & Tools
+
+**Sprachen & Umgebungen**
+- Python
+- C
+- Java
+- MATLAB
+- Bash / Scripting
+
+**DevOps & Infra**
+- GitHub / Git
+- CI/CD (Pipelines, Automation, Deployment)
+- Networking
+- Server-Administration
+
+**Weitere Bereiche**
+- LaTeX (weil sauber dokumentierte Systeme genauso wichtig sind wie sauber laufende)
+- Test Automation
+- Prozess-Automation
+
+### Meine DevOps-Philosophie
+
+Automatisiere alles, was mehr als einmal gemacht wird.
+Teste alles, was in Produktion geht.
+Dokumentiere alles, was du in drei Monaten nicht mehr weißt.
 
 
 📫 thomas.huszak@posteo.de
