@@ -1,6 +1,6 @@
 ## Servus, ich bin Thomas
 
-Ich bin seit rund 2,5 Jahren in der Softwareentwicklung als Entwicklungsingenieur unterwegs.
+Ich bin seit rund 3 Jahren in der Softwareentwicklung als Entwicklungsingenieur unterwegs.
 Mein Fokus liegt darauf, Software nicht nur zum Laufen zu bringen, sondern sie stabil,
 testbar und automatisiert zu halten – von der ersten Codezeile bis in die Produktion.
 
